@@ -1,0 +1,631 @@
+*{
+    padding: 0;
+    margin: 0;
+    max-width: 100%;
+    max-height: 100%;
+}
+body{
+    background-image: url("./img/normal.jpg");
+    background-size: cover;
+}
+@media screen and (min-width:300px) {
+    body{
+background-image: url("./img/nwdn_file_temp_1629625990775.jpg");
+background-size: cover;
+    }
+
+
+    *{
+        padding: 0;
+        margin: 0;
+        max-width: 100%;
+        max-height: 100%;
+    }
+    .nav{
+        margin: 0;
+        padding: 0;
+    }
+    .nav2 {
+        list-style: none;
+        overflow: hidden;
+        margin: 0;
+        padding: 0;
+        text-align: center;
+height: 3.5cm;
+background-color: black;
+box-shadow: 5px 5px 30px rgb(255, 255, 255);
+
+    }
+
+    .nav2 li a{
+        color: rgb(255, 255, 255);
+        font-size: 1.6cm;
+        text-decoration: none;
+        float: left;
+        line-height: 70px;
+        padding-left: 76px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 0.9cm;
+    
+    }
+
+    .nav3{
+        list-style: none;
+        overflow: hidden;
+        margin: 0;
+        padding: 0;
+        text-align: center;
+height: 3.5cm;
+background-color: black;
+box-shadow: 5px 5px 30px rgb(255, 255, 255);
+    
+    }
+    
+    .nav3 li a{
+        color: rgb(255, 255, 255);
+            font-size: 1.6cm;
+            text-decoration: none;
+            float: left;
+            line-height: 70px;
+            padding-left: 76px;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        margin-top: 0.9cm;
+    
+    
+    }
+
+    .nav4{
+        list-style: none;
+        overflow: hidden;
+        margin: 0;
+        padding: 0;
+        text-align: center;
+height: 3.5cm;
+background-color: black;
+box-shadow: 5px 5px 30px rgb(255, 255, 255);
+    }
+    
+    .nav4 li a{
+        color: rgb(255, 255, 255);
+        font-size: 1.6cm;
+        text-decoration: none;
+        float: left;
+        line-height: 70px;
+        padding-left: 76px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 0.9cm;
+    }
+
+    .nav5{
+        list-style: none;
+        overflow: hidden;
+        margin: 0;
+        padding: 0;
+        text-align: center;
+height: 3.5cm;
+background-color: black;
+box-shadow: 5px 5px 30px rgb(255, 255, 255);
+    }
+    .nav5 li a{
+        color: rgb(255, 255, 255);
+        font-size: 1.6cm;
+        text-decoration: none;
+        float: left;
+        line-height: 70px;
+        padding-left: 76px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 0.9cm;
+    }
+
+    hr{
+        height: 8px;
+       background-color:rgb(218, 218, 218) ;
+        color: rgb(255, 255, 255);
+        width: 100%;
+    }
+
+#a {
+    color: rgb(39, 136, 247);
+    font-size: 1.6cm;
+    text-decoration: none;
+    float: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   ;
+ 
+}
+
+.insta{
+    height: 18cm;
+    width: 17cm;
+    background: rgba(6, 0, 0, 0.377);
+box-shadow: 0 8px 32px 0 rgba(255, 255, 255, 0.411);
+backdrop-filter: blur( 5.5px );
+-webkit-backdrop-filter: blur( 5.5px );
+border-radius: 10px;
+border: 1px solid rgba(0, 0, 0, 0.719);
+    border-radius: 10%;
+    margin-top: 11.5cm;
+
+}
+.boy2{
+    height: 5cm;
+    width: 5cm;
+    border-radius: 50%;
+    border: 5px solid rgb(245, 240, 240);
+    margin-top: 1cm;
+}
+
+.text1{
+    font-size: 1.9cm;
+    color: white;
+    letter-spacing: 10px;
+    padding-top: 10px;
+    font-family: Rockwell;
+    text-shadow: 2px 2px 8px black;
+}
+.text2{
+    font-size: 0.9cm;
+    color: white;
+    letter-spacing: 6px;
+    padding-top: 0.5cm;
+    line-height: 2cm;
+    font-family: Rockwell;
+    text-shadow: 2px 2px 8px black;
+}
+
+.text3{
+    background: none;
+height:3cm;
+width: 7cm;
+color: white;
+font-size: 1cm;
+border-radius: 10cm;
+border: 3px white solid;
+font-family: Arial Black;
+letter-spacing: 2px;
+margin-top: 1cm;
+background-color: rgba(0, 0, 0, 0.493);
+}
+
+
+.icon{
+height: 10cm;
+width: 10cm; 
+position: absolute;
+margin-top: 32.2cm;
+margin-left: 7cm;
+}
+.homeh1{
+    position: absolute;
+   background-color: rgba(255, 255, 255, 0.692);
+   font-family: MV Boli;
+    animation-name:h1 ;
+    animation-duration: 1s;
+    animation-fill-mode: forwards;
+    animation-delay: 0s;
+    margin-top: 2cm;
+}
+
+
+
+@keyframes h1 { 
+    0%{
+        font-size: 0cm;
+
+    }
+
+   12%{
+    font-size: 0.5cm;
+ 
+   }
+
+    25%{
+        font-size: 1cm;
+    }
+
+
+37%{
+        font-size: 1.5cm;
+
+}
+  
+
+    50%{
+        font-size: 2cm;
+    }
+
+   67%{
+    font-size: 2.5cm;
+
+   }
+
+    75%{
+        font-size: 3cm;
+
+    }
+
+   87%{
+    font-size: 3.5cm;
+
+   } 
+  
+
+    100%{
+        font-size: 4cm;
+
+    }
+   
+       
+    
+}
+
+
+
+@keyframes p { 
+    0%{
+        font-size: 0cm;
+
+    }
+
+   12%{
+    font-size: 0cm;
+ 
+   }
+
+    25%{
+        font-size: 0cm;
+    }
+
+
+37%{
+        font-size: 0.5cm;
+
+}
+  
+
+    50%{
+        font-size: 1cm;
+    }
+
+   67%{
+    font-size: 1.5cm;
+
+   }
+
+    75%{
+        font-size: 2cm;
+
+    }
+
+   87%{
+    font-size: 2.5cm;
+
+   } 
+  
+
+    100%{
+        font-size: 3cm;
+
+    }
+   
+       
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/*________________________________________________________________________________________________________*/
+
+
+
+
+.about{
+    height: 33cm;
+    width: 20cm;
+    background-color: rgb(15, 15, 15);
+    margin-left: 3cm;
+    margin-top: 3cm;
+    border-radius: 20px;
+    box-shadow: 2px 5px 15px whitesmoke;
+}
+
+.img2{
+    height: 18cm;
+    width: 100%;
+border-radius: 20px;
+}
+
+.abouth1{
+    animation-name:n;
+    animation-duration:1s ;
+    animation-delay: 1s;
+    font-size: 0px;
+    animation-fill-mode: forwards;
+font-family:Copperplate Gothic Light ;
+color: rgba(255, 255, 255, 0.932);
+text-shadow: 5px 5px 10px  rgb(0, 0, 0);
+letter-spacing: 11px;
+margin-top: 2cm;
+}
+
+.h2{
+letter-spacing: 3px;
+
+    text-align: center;
+    color: rgb(28, 144, 253);
+    text-shadow: 1px 2px 20px 3px rgb(65, 65, 65);
+    font-size: 1cm;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.star{
+    height: 3cm;
+    width: 3cm;
+    margin-top: 1cm;
+}
+
+.aboutp{
+    text-align: center;
+    color: rgba(255, 255, 255, 0.651);
+    text-shadow: 1px 2px 20px 3px rgb(65, 65, 65);
+    font-size: 1.5cm;
+    font-family: Copperplate Gothic Light ;
+}
+/*____________________________________________________________________________________________________________*/
+
+
+.cv{
+    height: 30cm;
+    width: 20cm;
+    box-shadow: 10px 20px 40px 1px black;
+    border: none;
+    margin-top: 1cm;
+}
+
+.button{
+    height: 0px;
+    width: 0px;
+    margin-top: 1cm;
+    border-radius: 1pc;
+    background: none;
+    color: rgb(255, 255, 255) ;
+    font-size: 1cm;
+    background-color: rgba(0, 0, 0, 0.315);
+border: 5px solid white;
+animation-name:button;
+animation-duration: 1s;
+animation-delay: 2s;
+animation-fill-mode: forwards;
+}
+.hr3{
+    height: 1px;
+    width: 100%;
+    color: white;
+}
+
+@keyframes button {
+    0%{
+        height: 0cm;
+        width: 0cm;
+    }
+
+    10%{
+        height: 0cm;
+        width: 1cm;
+    }
+
+    20%{
+        height: 0cm;
+        width: 2cm;
+    }
+
+    30%{
+        height: 0cm;
+        width: 3cm;
+
+    }
+
+    40%{
+        height: 0cm;
+        width: 4cm;
+    }
+
+    50%{
+        height: 0cm;
+        width: 5cm;
+    }
+
+    60%{
+        height: 0cm;
+        width: 6cm;
+    }
+
+    70%{
+        height: 0cm;
+        width: 7cm;
+    }
+
+    80%{
+        height: 1cm;
+        width: 8cm;
+    }
+    90%{
+        height:2cm;
+        width: 9cm;
+    }
+    100%{
+        height: 3cm;
+        width: 10cm;  
+    }
+}
+
+/*____________________________________________________________________________________*/
+
+
+
+
+
+.nav6{
+    list-style: none;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+height: 33cm;
+padding-top: 2pc;
+text-align: center;
+position: absolute;
+margin-left: 5.1cm;
+line-height: 5cm;
+
+
+}
+
+.nav6 li a{
+    font-size: 1.6cm;
+    text-decoration: none;
+    font-family:MV Boli;
+text-align: center;
+line-height: 5cm;
+letter-spacing: 5px;
+color: white;
+
+}
+
+
+
+
+.t {
+    height: 4cm;
+    width: 15cm;
+    margin-top: 2cm;
+
+    border-radius: 5cm;
+padding-bottom: 1cm;
+border: 5px solid white;
+background-color:rgba(0, 0, 0, 0.349);
+}
+
+.tt{
+    height: 4cm;
+    width: 15cm;
+    margin-top: 2cm;
+
+    border-radius: 5cm;
+padding-bottom: 1cm;
+border: 5px solid white;
+background-color:rgba(0, 0, 0, 0.349);
+}
+.ttt{
+    height: 4cm;
+    width: 15cm;
+    margin-top: 2cm;
+
+    border-radius: 5cm;
+padding-bottom: 1cm;
+border: 5px solid white;
+background-color:rgba(0, 0, 0, 0.349);
+}
+
+.tttt{
+    height: 4cm;
+    width: 15cm;
+    margin-top: 2cm;
+
+    border-radius: 5cm;
+padding-bottom: 1cm;
+border: 5px solid white;
+background-color:rgba(0, 0, 0, 0.349);
+}
+
+.nn{
+    text-align: center;
+    animation-name:n;
+    animation-duration: 1s;
+    animation-fill-mode: forwards;
+    font-family: Copperplate Gothic Light ;
+    color: white;
+    text-shadow: 5px 10px 20px 5px black;
+    animation-delay: 1s;
+font-size: 0px;
+margin-top: 2cm;
+}
+
+
+@keyframes n{
+    0%{
+        font-size: 0cm;
+
+    }
+
+   12%{
+    font-size: 0.5cm;
+ 
+   }
+
+    25%{
+        font-size: 1cm;
+    }
+
+
+37%{
+        font-size: 1.5cm;
+
+}
+  
+
+    50%{
+        font-size: 2cm;
+    }
+
+   67%{
+    font-size: 2.5cm;
+
+   }
+
+    75%{
+        font-size: 3cm;
+
+    }
+
+   87%{
+    font-size: 3cm;
+
+   } 
+  
+
+    100%{
+        font-size: 3cm;
+        text-shadow: 5px 10px 20px black;
+
+    }
+
+   
+}
+
+
+.iconss{
+    height: 3cm;
+    width: 3cm;
+    float: left;
+    margin-top: 0.9cm;
+    margin-left: 1cm;
+}
+
+
+
+a:active{
+    background: none;
+    color: black;
+
+}
+
+
